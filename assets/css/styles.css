@@ -61,7 +61,9 @@ body {
     border-radius: 0px 0px 12px;
 }
 .green:focus, .blue:focus, .yellow:focus, .close:hover, .open:focus { background: #ddd; }
-
+.toast {
+    padding-top: 5px;
+}
 .toast .green_t {
     margin: auto;
     background: #ddd;
