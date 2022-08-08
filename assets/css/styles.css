@@ -67,9 +67,7 @@ body {
     background: #ddd;
     text-align: center;
     font-size: 10px;
-    border-radius: 12px;
-    padding: 3px 0px;
-    width: 80%;
+    padding: 3px 5rem;
     display: none;
     
 }
@@ -78,9 +76,7 @@ body {
     background: #ddd;
     text-align: center;
     font-size: 10px;
-    border-radius: 12px;
-    padding: 3px 0px;
-    width: 80%;
+    padding: 3px 5rem;
     display: none;
 }
 .toast .yellow_t {
@@ -88,8 +84,6 @@ body {
     background: #ddd;
     text-align: center;
     font-size: 10px;
-    border-radius: 12px;
-    padding: 3px 0px;
-    width: 80%;
+    padding: 3px 5rem;
     display: none;
 }
